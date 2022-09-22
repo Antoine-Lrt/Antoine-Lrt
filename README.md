@@ -9,7 +9,9 @@
 
 - 🔭 I’m currently working on **My side projects**
 
-- 💬 Ask me about **React, React-Native, NodeJs..**
+- 👨‍💻 All of my projects are available at [https://antoine-laurent-portfolio.netlify.app/](https://antoine-laurent-portfolio.netlify.app/)
+
+- 💬 Ask me about **TypeScript,React,React-Native,NodeJs..**
 
 - 📫 How to reach me **antoinelaurentdev@gmail.com**
 
